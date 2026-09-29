@@ -4,6 +4,8 @@ Hold-to-zoom for Minecraft Bedrock on [mcpelauncher-linux](https://github.com/mi
 
 Built and tested against **Minecraft 1.26.45.1** (`x86_64`).
 
+![Preview](Preview.gif)
+
 ## Install
 
 1. Download `libzoom.so` from [Releases](https://github.com/caffeinepx/smoothzoom-mcpelinux/releases).
